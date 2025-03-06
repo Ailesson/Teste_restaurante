@@ -6,16 +6,16 @@ Este é um projeto de teste para um sistema de restaurante, desenvolvido para au
 
 ## Tecnologias Utilizadas
 
-*Python
+* Python
 
-*FastApi 
+* FastApi 
 
-*MariaDB (banco de dados utilizado)
+* MariaDB (banco de dados utilizado)
 
-*React
+* React
 
-*Node js
+* Node js
 
-*TypeScript
+* TypeScript
 
 
