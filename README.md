@@ -41,7 +41,7 @@ Este é um projeto de teste para um sistema de restaurante, desenvolvido para au
 
 ## Interface do Sitema
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/user-attachments/assets/a615f4aa-9a3f-4777-a10e-4b374dbb3594)
 
 ## Documentação da API
 
