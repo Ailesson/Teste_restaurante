@@ -58,7 +58,7 @@ git clone https://github.com/Ailesson/Teste_restaurante.git
 cd backend
 
 # Execute o projeto:
-python app.py
+python api.py
 
 ```
 
