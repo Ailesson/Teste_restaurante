@@ -49,7 +49,7 @@ Este é um projeto de teste para um sistema de restaurante, desenvolvido para au
 
 ## Intalação 
 
-``branch
+```bash
 
 -# Clone este repositório:
 git clone https://github.com/Ailesson/Teste_restaurante.git
@@ -60,7 +60,7 @@ cd backend
 # Execute o projeto:
 python app.py
 
-``
+```
 
 
 
