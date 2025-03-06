@@ -19,3 +19,16 @@ Este é um projeto de teste para um sistema de restaurante, desenvolvido para au
 * TypeScript
 
 
+## Funcionalidades
+
+* Criar pedido
+* Listar pedidos
+* Deletar pedido
+* Atualizar pedido
+* Buscar pedido
+* Listar mesa
+* Fechar mesa
+* Criar mesa
+* Listar menu
+
+
